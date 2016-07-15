@@ -8,7 +8,6 @@
 <!--[![Circle CI](https://circleci.com/gh/docker-java/docker-java.svg?style=svg)](https://circleci.com/gh/docker-java/docker-java)-->
 # docker-java 
 
-
 Java API client for [Docker](http://docs.docker.io/ "Docker")
 
 <b>The current implementation is based on Jersey 2.x and therefore classpath incompatible with older Jersey 1.x dependent libraries!</b>
